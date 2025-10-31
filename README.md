@@ -1,0 +1,2 @@
+# scratch-rag
+RAG Application
